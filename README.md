@@ -7,3 +7,4 @@ List todo :
 [x] Making clean code  
 [x] Make ui for better  
 [x] Use tailwind for css framework  
+[x] Make tutorial how to make this simple project with simple steps
